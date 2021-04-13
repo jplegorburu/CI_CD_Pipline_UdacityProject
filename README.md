@@ -33,6 +33,9 @@ Output should be similar to the following
 Output should be similar to the following
 ![image](https://user-images.githubusercontent.com/5282112/114554678-a8aac980-9c6f-11eb-80d5-79db441aca90.png)
 
+## Status badge
+[![Python application test with Github Actions](https://github.com/jplegorburu/CI_CD_Pipline_UdacityProject/actions/workflows/python-app.yml/badge.svg)](https://github.com/jplegorburu/CI_CD_Pipline_UdacityProject/actions/workflows/python-app.yml)
+
 ## Project tasks
 
 * Project running on Azure App Service
