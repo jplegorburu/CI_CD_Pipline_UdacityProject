@@ -62,6 +62,10 @@ Output should be similar to the following
 * Output of streamed log files from deployed application
 ![image](https://user-images.githubusercontent.com/5282112/114552609-7304e100-9c6d-11eb-8cd0-cb3526128a10.png)
 
+* Screenshot of the application running against a load test with locust.
+![image](https://user-images.githubusercontent.com/5282112/114617229-8a18f280-9cb0-11eb-8332-c510c7708462.png)
+
+
 > 
 
 ## Enhancements
